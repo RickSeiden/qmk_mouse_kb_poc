@@ -1,1 +1,9 @@
-
+{
+    "keyboard": "mousetest",
+    "layout": "LAYOUT",
+    "layers": [
+                [
+                        "KC_MS_BTN1", "KC_MS_BTN2", "KC_A", "KC_B"
+                ]
+    ]
+}
